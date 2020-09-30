@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+# browserifyで生成されるbundle.jsは除外
+/bundle.js

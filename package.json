@@ -1,0 +1,23 @@
+{
+  "name": "nem-library-browserify-sample",
+  "version": "1.0.0",
+  "description": "nem-libraryを用いたNode.jsで動作するコードをbrowserifyを使ってブラウザで読込んで使えるJavaScriptファイルに変換する方法のサンプルです。",
+  "main": "source.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YasunoriMATSUOKA/nem-library-browserify-sample.git"
+  },
+  "author": "YasunoriMATSUOKA",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YasunoriMATSUOKA/nem-library-browserify-sample/issues"
+  },
+  "homepage": "https://github.com/YasunoriMATSUOKA/nem-library-browserify-sample#readme",
+  "dependencies": {
+    "nem-library": "^2.0.0-RC4",
+    "rxjs": "^6.6.3"
+  }
+}
