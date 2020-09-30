@@ -1,0 +1,2 @@
+# nem-library-browserify-sample
+nem-libraryを用いたNode.jsで動作するコードをbrowserifyを使ってブラウザで読込んで使えるJavaScriptファイルに変換する方法のサンプルです。
